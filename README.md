@@ -171,10 +171,12 @@ If you have any questions, please contact [arnav@cmu.edu](mailto:arnav@cmu.edu) 
 
 If you find this repository useful for your research, please cite the following paper:
 ```bibtex
-@proceedings{cvarEnergy,
-    title={CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model},
-    author={Choudhry, Arnav and Moon, Brady and Patrikar, Jay and Samaras, Constantine and Scherer, Sebastian},
-    booktitle = {International Conference on Robotics and Automation (ICRA)},
-    year={2021}
+@INPROCEEDINGS{choudhry2021cvar,
+  author={Choudhry, Arnav and Moon, Brady and Patrikar, Jay and Samaras, Constantine and Scherer, Sebastian},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model}, 
+  year={2021},
+  pages={262-268},
+  doi={10.1109/ICRA48506.2021.9561658}
 }
 ```
