@@ -1,13 +1,15 @@
 # CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model
-This repository contains the code for [ICRA 2021](https://www.ieee-icra.org/) paper:
+This repository contains the code for the ICRA 2021 paper :
 
-**<a href="#">CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model</a>**  
+**<a href="https://ieeexplore.ieee.org/document/9561658">CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model</a>**  
 *<a href="https://arnav1.github.io">Arnav Choudhry\*</a>,
 <a href="https://bradymoon.com">Brady Moon\*</a>,
 <a href="https://jaypatrikar.me">Jay Patrikar\*</a>,
 <a href="https://www.costasamaras.com">Constantine Samaras</a>,
 <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a><br/>
-(\* equal contribution)*
+(\* equal contribution)* [[PDF]](https://arxiv.org/pdf/2105.15189.pdf)
+
+
 
 ## Brief overview <a href="https://youtu.be/PHXGigqilOA">[Video]</a>
 
